@@ -13,8 +13,7 @@ Check out [API LIVE DEMO](https://backend-teashop1.herokuapp.com/) here!!
 ```
 ## How to Install
 1. Git Clone
-```
-git clone https://github.com/dede123qu/TRtea-shop.git
+
 ```
 2. Backend setting
 ```
